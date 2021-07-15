@@ -26,6 +26,9 @@ We have the PBIX file and the CSV that contains the data
 Link para download:
 https://1drv.ms/u/s!AnSxyyvettlTaLUDLA_Y6npQ_JM?e=PZl2bg
 
+Link Dashboard:
+https://app.powerbi.com/view?r=eyJrIjoiZGY3N2NiNGYtZGM3OS00OWI5LWIxY2EtMjIxYThhMTY5NmNiIiwidCI6IjE0NDM1NmE4LWY2NjMtNGQxYy05ODcxLWU3OGZlODA5YzlkOSJ9
+
 
 ### Contato - Contact
 https://www.linkedin.com/in/jos%C3%A9-junior-746a7371/
