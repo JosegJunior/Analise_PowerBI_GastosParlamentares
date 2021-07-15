@@ -22,3 +22,12 @@ Analyzing the "Parliamentary costs" DataSet, coming from the Brasil IO (Open Dat
 
 Temos o arquivo pbix e o CSV que contem os dados
 We have the PBIX file and the CSV that contains the data
+
+Link para download:
+https://1drv.ms/u/s!AnSxyyvettlTaLUDLA_Y6npQ_JM?e=PZl2bg
+
+
+###Contato - Contact
+https://www.linkedin.com/in/jos%C3%A9-junior-746a7371/
+
+
